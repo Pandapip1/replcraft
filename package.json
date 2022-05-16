@@ -1,0 +1,22 @@
+{
+  "name": "replcraft",
+  "version": "1.0.0",
+  "description": "A mirror of the ReplCraft JS client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pandapip1/replcraft.git"
+  },
+  "keywords": [
+    "minecraft"
+  ],
+  "author": "LeeFleming, Pandapip1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pandapip1/replcraft/issues"
+  },
+  "homepage": "https://github.com/Pandapip1/replcraft#readme"
+}
