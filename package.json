@@ -1,6 +1,6 @@
 {
   "name": "replcraft",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A mirror of the ReplCraft JS client",
   "main": "index.js",
   "scripts": {
